@@ -7,3 +7,5 @@ Powershell script that will automatically get all the Distro Groups that are no 
 ## Before Running:
 * Make sure that you have administrative privileges before running this command.
 * Make sure that you are using Powershell in a Domain level.
+
+../
